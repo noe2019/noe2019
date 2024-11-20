@@ -3,7 +3,6 @@
 
 I'm a passionate **Data Scientist and Analyst** with expertise in building and deploying Machine Learning models, automating ETL pipelines, building dashboards to derive business specific Insights.  
 
-## 📊 Profile Statistics
 ![Profile views](https://komarev.com/ghpvc/?username=noe2019&color=blue&style=flat-square)  
 ---
 
