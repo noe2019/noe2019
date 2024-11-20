@@ -40,11 +40,11 @@ I'm a passionate **Data Scientist and Analyst** with expertise in building and d
    Enhancing customer satisfaction through efficient service analytics.  
    *Tools*: Tableau, SQL, Excel.
 6. **[Medicine Recommender](https://github.com/noe2019/Medecine-Recommender)**  
-   the AI Doctor web app, which predicts diseases based on user-inputted symptoms and provides medications and life style recommendations.  
+   Click [here](https://aidoctor-bd30fb12b81e.herokuapp.com/) to see the AI Doctor web app, which predicts diseases based on user-inputted symptoms and provides medications and life style recommendations.  
    *Tools*: Python, Machine Learning, Flask, Heroku, Excel.
 
 7. **[Early Diabetes](https://github.com/noe2019/Early-Diabetes)**  
-   The study aims to estimate the prevalence of early-onset type 2 diabetes mellitus (T2DM) in the U.S. and explore associations between early-onset T2DM and race/ethnicity, among other predictors. Using stepwise logistic regression and machine learning, the study identifies significant predictors for early-onset T2DM. The final outcome is a user friendly Web application to predict early diabetes.
+   The study aims to estimate the prevalence of early-onset type 2 diabetes mellitus (T2DM) in the U.S. and explore associations between early-onset T2DM and race/ethnicity, among other predictors. Using stepwise logistic regression and machine learning, the study identifies significant predictors for early-onset T2DM. The final outcome is a user friendly Web application to predict early diabetes [here](https://et2dmapp.streamlit.app/).
    *Tools*: R, Python, Docker, Streamlit, Heroku, SQL, Excel. 
    
 
