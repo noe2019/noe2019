@@ -9,9 +9,10 @@ I'm a passionate **Data Scientist and Analyst** with expertise in building and d
 - **Data Analysis & Visualization**: Tableau, Power BI, SQL, Excel  
 - **Programming**: Python, R, SaS  
 - **Machine Learning**: Predictive modeling, time series analysis
-- **Web Development**: Heroku, Flask, Stremlit
+- **Web application**: Flask
+- **Deployment Platforms**: Heroku, Streamlit, Docker  
 - **Cloud**: Azure
-- **Big Data**: MS SQL Server, MySQL, ETL processes, Data Engineering  
+- **Data Management**: MS SQL Server, MySQL, ETL processes  
 - **Domain Expertise**: Healthcare, Biodiversity, Telecom, Banking, E-commerce  
 
 ---
@@ -21,23 +22,37 @@ I'm a passionate **Data Scientist and Analyst** with expertise in building and d
 ### 🚀 Featured Projects
 1. **[DA-Portfolio-Website](https://github.com/noe2019/DA-Portfolio-Website)**  
    Unlocking insights through compelling dashboards and visualizations.  
-   *Tools*: Tableau, Power BI, SQL, Excel, Python.  
+   *Tools*: Tableau, Power BI, SQL, Excel, Python.
+   
+2. **[Smart Lending Dashboard](https://github.com/noe2019/Smart-Lending)**  
+   Unlocking Insight on a bank financial risk analysis.  
+   *Tools*: Power BI, Python, SQL.  
 
-2. **[Telecom Churn Analysis and Prediction](https://github.com/noe2019/Telecom-Churn-Analysis-And-Prediction)**  
+3. **[Telecom Churn Analysis and Prediction](https://github.com/noe2019/Telecom-Churn-Analysis-And-Prediction)**  
    Predicting and mitigating customer churn using advanced ML techniques.  
    *Tools*: Power BI, Random Forest Classifier, SQL.  
 
-3. **[Bike Renting Insights](https://github.com/noe2019/Bike-Renting-Insights)**  
+4. **[Bike Renting Insights](https://github.com/noe2019/Bike-Renting-Insights)**  
    Understanding trends in bike rentals to optimize operations.  
    *Tools*: Python, Jupyter, Data Visualization.  
 
-4. **[Credit Complaint Analysis](https://github.com/noe2019/Credit-Complaint-Analysis)**  
+5. **[Credit Complaint Analysis](https://github.com/noe2019/Credit-Complaint-Analysis)**  
    Enhancing customer satisfaction through efficient service analytics.  
-   *Tools*: Tableau, SQL, Excel.  
+   *Tools*: Tableau, SQL, Excel.
+6. **[Medicine Recommender](https://github.com/noe2019/Medecine-Recommender)**  
+   the AI Doctor web app, which predicts diseases based on user-inputted symptoms and provides medications and life style recommendations.  
+   *Tools*: Python, Machine Learning, Flask, Heroku, Excel.
+
+7. **[Early Diabetes](https://github.com/noe2019/Early-Diabetes)**  
+   The study aims to estimate the prevalence of early-onset type 2 diabetes mellitus (T2DM) in the U.S. and explore associations between early-onset T2DM and race/ethnicity, among other predictors. Using stepwise logistic regression and machine learning, the study identifies significant predictors for early-onset T2DM. The final outcome is a user friendly Web application to predict early diabetes.
+   *Tools*: R, Python, Docker, Streamlit, Heroku, SQL, Excel. 
+   
 
 ### 🧮 Stats & Insights
 ![Noé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noe2019&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noe2019&layout=compact)](https://github.com/noe2019?tab=repositories)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noe2019&theme=radical)](https://github.com/noe2019)
 
 ---
 
