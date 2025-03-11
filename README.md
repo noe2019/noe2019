@@ -21,15 +21,16 @@ I'm a passionate **Data Scientist and Analyst** with expertise in building and d
 ## 📊 GitHub Highlights
 
 ### 🚀 Featured Projects
-1. **[Medicine Recommender](https://github.com/noe2019/Medecine-Recommender)**  
+1. **[Medicine Recommender](https://github.com/noe2019/Medecine-Recommender)**
+
    Click [here]([https://aidoctor-bd30fb12b81e.herokuapp.com/](https://aidoctor-227700301703.herokuapp.com/) to see the AI Doctor web app, which predicts diseases based on user-inputted symptoms and provides medications and life style recommendations.  
    *Tools*: Python, Machine Learning, Flask, Heroku, Excel.
 
-2. **[Early Diabetes](https://github.com/noe2019/Early-Diabetes)**  
+3. **[Early Diabetes](https://github.com/noe2019/Early-Diabetes)**  
    The study aims to estimate the prevalence of early-onset type 2 diabetes mellitus (T2DM) in the U.S. and explore associations between early-onset T2DM and race/ethnicity, among other predictors. Using stepwise logistic regression and machine learning, the study identifies significant predictors for early-onset T2DM. The final outcome is a user friendly Web application to predict early diabetes [here](https://et2dmapp.streamlit.app/).
    *Tools*: R, Python, Docker, Streamlit, SQL, Excel.
 
-3. **[Multiple disease Prediction](https://github.com/noe2019/Early-Diabetes)**  
+4. **[Multiple disease Prediction](https://github.com/noe2019/Early-Diabetes)**  
    The study aims to build a web application that can help either patients or medical doctors to easily spot four diseases [here](https://multiple-disease-prediction-aws-app-6gyzynvubis3ibywjrxj5x.streamlit.app/).
    *Tools*: R, Python, Docker, Streamlit, Heroku, SQL, Excel.
 
