@@ -66,8 +66,7 @@
 ---
 
 ## 📫 **Get In Touch**
-- 💼 LinkedIn: [noe-carème-fouotsa]([https://linkedin.com/in/noe-carème-fouotsa](https://www.linkedin.com/in/noefouotsa/)
+- 💼 LinkedIn: [noe-carème-fouotsa](https://www.linkedin.com/in/noefouotsa/)
 - ✉️ Email: [noecaremee@gmail.com](mailto:noecaremee@gmail.com)
-- 🌍 Portfolio: [Portfolio]([https://yourportfolio.com](https://noe2019.github.io/DA-Portfolio-Website/))
-
+- 🌍 Portfolio: [Portfolio](https://noe2019.github.io/DA-Portfolio-Website/)
 > *"Transforming data chaos into production-grade ML solutions with rigorous MLOps practices."*
