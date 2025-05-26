@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Noé Carème FOUOTSA MANFOUO!
+# Noé Carème FOUOTSA MANFOUO!
 
-**Data Scientist | ML Engineer | MLOps Specialist**  
+**Data Scientist | ML Engineer | AI Specialist | Power BI Developper**  
 🚀 *Building robust ML pipelines from experimentation to production*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noe2019&color=blue&style=flat-square)](https://github.com/noe2019)
