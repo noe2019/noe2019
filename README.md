@@ -4,9 +4,8 @@
 🚀 *Building robust ML pipelines from experimentation to production*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=noe2019&color=blue&style=flat-square)](https://github.com/noe2019)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/noefouotsa/](https://www.linkedin.com/in/noefouotsa/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noefouotsa/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:noecaremee@gmail.com)
-
 ---
 
 ## 🔧 **Technical Stack**
