@@ -52,7 +52,7 @@
 ### 4. [Telecom Churn Analytics](https://github.com/noe2019/Telecom-Churn-Analysis-And-Prediction)
 **Real-time monitoring**: Data drift detection | Azure deployment  
 **Tech**: Power BI, Random Forest, Evidently  
-📌 [Dashboard]([https://app.powerbi.com/your-link](https://app.powerbi.com/view?r=eyJrIjoiYTQ4ODNhNTItMWVkZC00ZjQ1LTgzYjYtNDIwOWI0ZjZkOWIxIiwidCI6ImI1NWIwM2YzLTIyZmUtNDAyNi1hM2Y0LWQ2NTVjOThiNDAyMCJ9)
+📌 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTQ4ODNhNTItMWVkZC00ZjQ1LTgzYjYtNDIwOWI0ZjZkOWIxIiwidCI6ImI1NWIwM2YzLTIyZmUtNDAyNi1hM2Y0LWQ2NTVjOThiNDAyMCJ9)
 
 ---
 
